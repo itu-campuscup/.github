@@ -2,8 +2,8 @@
 
 ![CampusCup Logo](https://github.com/itu-campuscup/.github/blob/50aaa28abe375ead7588372c5afa0daae36014cf/campus.png)
 
-Welcome to the official GitHub organisation for **CampusCup** — a student-driven, non-profit initiative based at the IT University of Copenhagen (ITU). Since 2014, we've been orchestrating the annual **Battle of the Canal**, a spirited kayak and beer relay race that brings together students from ITU and the University of Copenhagen's Faculty of Humanities (KUA).  
-🌐 [campuscup.dk](https://campuscup.dk/about/?utm_source=chatgpt.com)
+Welcome to the official GitHub organisation for **CampusCup** — a student-driven, non-profit initiative based at the IT University of Copenhagen (ITU). Since 2014, we've been orchestrating the annual **Battle of the Canal**, a spirited kayak and beer relay race that brings together students from ITU and the University of Copenhagen's Faculty of Humanities (KU).  
+🌐 [campuscup.dk](https://campuscup.dk/about)
 
 ## 🎉 About the Event
 
@@ -39,7 +39,7 @@ We welcome contributions! If you're interested in collaborating or have ideas to
 Interested in joining the crew or participating in the next CampusCup? Here's how:
 
 - 🌐 **Website**: [campuscup.dk](https://campuscup.dk)
-- 📘 **Facebook**: [CampusCup](https://www.facebook.com/campus.cup.cph/)
-- 📸 **Instagram**: [@campuscup_cph](https://www.instagram.com/campuscup_cph/)
+- 📘 **Facebook**: [CampusCup](https://www.facebook.com/campus.cup.cph)
+- 📸 **Instagram**: [@campuscup_cph](https://www.instagram.com/campuscup_cph)
 
-For inquiries about volunteering, reach out via our [contact form](https://campuscup.dk/volunteer/)
+For inquiries about volunteering, reach out via our [contact form](https://campuscup.dk/volunteer)
