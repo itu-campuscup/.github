@@ -17,3 +17,4 @@ jobs:
         with:
           channel_id: UC58SrF1nT13UIHD24oCgFfw
           output_type: html
+          readme_path: ./github/profile/README.md
