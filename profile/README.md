@@ -2,7 +2,9 @@
 
 <details open><summary>📹 Latest YouTube videos</summary>
   <!-- BEGIN YOUTUBE-CARDS -->
-  <!-- END YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=0253p-512Vo"><img src="https://ytcards.demolab.com/?id=0253p-512Vo&title=Bong+cam+from+CampusCup+2024&lang=en&timestamp=1744806623&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Bong cam from CampusCup 2024" title="Bong cam from CampusCup 2024"></a>
+<a href="https://www.youtube.com/watch?v=fSgTVn0bUms"><img src="https://ytcards.demolab.com/?id=fSgTVn0bUms&title=CampusCup+2023+%7C+Official+Aftermovie&lang=en&timestamp=1695122811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="CampusCup 2023 | Official Aftermovie" title="CampusCup 2023 | Official Aftermovie"></a>
+<!-- END YOUTUBE-CARDS -->
 </details>
 
 Welcome to the official GitHub organisation for **CampusCup** — a student-driven, non-profit initiative based at the IT University of Copenhagen (ITU). Since 2014, we've been orchestrating the annual **Battle of the Canal**, a spirited kayak and beer relay race that brings together students from ITU and the University of Copenhagen's Faculty of Humanities (KU).  
