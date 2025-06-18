@@ -4,7 +4,7 @@
   <a href="https://campuscup.dk" target="_blank" rel="noopener noreferrer">
     <img alt="CampusCup 2025 Countdown" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/itu-campuscup/simple-endpoint/main/countdown.json" />
   </a>
-<div>
+</div>
 
 <details open><summary><h2>📹 Latest YouTube videos</h3></summary>
   <!-- BEGIN YOUTUBE-CARDS -->
