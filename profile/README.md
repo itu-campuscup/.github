@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://campuscup.dk" target="_blank" rel="noopener noreferrer">
-    <img alt="CampusCup 2025 Countdown" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/itu-campuscup/simple-endpoint/main/countdown.json" />
+    <img alt="CampusCup 2025 Countdown" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/itu-campuscup/simple-endpoint/main/countdown-2025.json" />
   </a>
 </div>
 
