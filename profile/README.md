@@ -30,42 +30,55 @@
 Welcome to the official GitHub organisation for **CampusCup** — a student-driven, non-profit initiative based at the IT University of Copenhagen (ITU). Since 2014, we've been orchestrating the annual **Battle of the Canal**, a spirited kayak and beer relay race that brings together students from ITU and the University of Copenhagen's Faculty of Humanities (KU).  
 🌐 [campuscup.dk](https://campuscup.dk/about)
 
-## 🎉 About the Event
+<details><summary><h2>🎉 About the Event</h2></summary>
 
-Held every September at Emil Holms Kanal, CampusCup is more than just a race. It's a carnival-like celebration featuring:
+  <p>Held every September at Emil Holms Kanal, CampusCup is more than just a race. It's a carnival-like celebration featuring:
+  
+  <ul>
+    <li> 🛶 <b>16 teams</b> competing in a knockout-style kayak and beer relay race </li>
+    <li> 🎶 <b>Live entertainment</b>, sponsor booths, and interactive games </li>
+  </ul>
+  
+  Whether you're racing, volunteering, or cheering from the sidelines, CampusCup offers an unforgettable experience.
 
-- 🛶 **16 teams** competing in a knockout-style kayak and beer relay race.
-- 🎶 **Live entertainment**, sponsor booths, and interactive games.
+</details>
 
-Whether you're racing, volunteering, or cheering from the sidelines, CampusCup offers an unforgettable experience.
+<details><summary><h2>👥 Our Mission</h2></summary>
 
----
+  CampusCup aims to:
+  
+  <ul>
+    <li> Strengthen student life across Ørestad by bridging communities from ITU and KUA </li>
+    <li> Promote inclusivity through volunteer-driven events </li>
+    <li> Celebrate the start of the academic year with joy and unity </li>
+  </ul>
 
-## 👥 Our Mission
+</details>
 
-CampusCup aims to:
+<details open><summary><h2>💻 Our Tech Projects</h2></summary>
 
-- Strengthen student life across Ørestad by bridging communities from ITU and KUA.
-- Promote inclusivity through volunteer-driven events.
-- Celebrate the start of the academic year with joy and unity.
+  This GitHub organisation hosts the technical solutions used during CampusCup. Our repositories include:
+  
+  <ul>
+    <li> <a href="https://github.com/itu-campuscup/judge-it"><code>judge-it</code></a>: A web application designed to streamline event judging and coordination - and make fun stats for the crowd to view </li>
+    <li> Maybe more stuff to come in the future </li>
+  </ul>
 
-## 💻 Our Tech Projects
+</details>
 
-This GitHub organisation hosts the technical solutions used during CampusCup. Our repositories include:
+<details open><summary><h2>🙌 Get Involved</h2></summary>
 
-- [`judge-it`](https://github.com/itu-campuscup/judge-it): A web application designed to streamline event judging and coordination.
-- Maybe more stuff to come in the future
+  <ul>
+   <li> Have ideas for new development? <br/>
+     Write a discussion post on either the respective repo, or <a href=https://github.com/orgs/itu-campuscup/discussions/new/choose>here</a> specifically for new ideas </li>
+   <li> Interested in helping with <b>development</b>? <br/>
+     Then please read the guidelines on the given repo </li>
+   <li> Interested in <b>volunteering</b>? <br/>
+     Then please keep an eye on our <a href=https://www.instagram.com/campuscup_cph>instagram</a> and our <a href="https://campuscup.dk/volunteer">volunteer form</a> </li>
+   <li> Interested in joining as a <b>contestant</b>? <br/>
+     Then keep an eye on our <a href="https://www.instagram.com/campuscup_cph">instagram</a> and our <a href="https://campuscup.dk/participate">participate form</a> </li>
+   <li> Interested in <b>sponsoring</b> us? <br/>
+     Then please check out our <a href="https://campuscup.dk/about/#contact">contact form</a> </li>
+  </ul>
 
-We welcome contributions! If you're interested in collaborating or have ideas to enhance our projects, then please reach out to us by [email](mailto:contact@campuscup.dk) or read the contributing guidelines on the respective repositories.
----
-
-## 🙌 Get Involved
-
- - Interested in helping with **development**? \
-   Then please write an email to [contact@campuscup.dk](mailto:contact@campuscup.dk).
- - Interested in **volunteering**? \
-   Then please keep an eye on our [instagram](https://www.instagram.com/campuscup_cph) and our [volunteer form](https://campuscup.dk/volunteer)
- - Interested in joining as a **contestant**? \
-   Then keep an eye on our [instagram](https://www.instagram.com/campuscup_cph) and our [participate form](https://campuscup.dk/participate)
- - Interested in **sponsoring** us? \
-   Then please check out our [contact form](https://campuscup.dk/about/#contact)
+</details>
