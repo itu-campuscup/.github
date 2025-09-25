@@ -6,10 +6,10 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://www.instagram.com/campuscup_cph" target="_blank" rel="noopener noreferrer">
+  <a href="https://links.campuscup.dk/ig" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-dd2a7b?logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@CampusCup_Cph?sub_confirmation=1" target="_blank" rel="noopener noreferrer">
+  <a href="https://links.campuscup.dk/yt" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-ff0000?logo=youtube&logoColor=white" />
   </a>
   <a href="https://campuscup.dk" target="_blank" rel="noopener noreferrer">
