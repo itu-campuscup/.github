@@ -22,6 +22,7 @@
 
 <details open><summary><h2>📹 Latest YouTube videos</h3></summary>
   <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=6n8-SUULvh0"><img src="https://ytcards.demolab.com/?id=6n8-SUULvh0&title=CampusCup+Bong+2025&lang=en&timestamp=1758655558&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="CampusCup Bong 2025" title="CampusCup Bong 2025"></a>
 <a href="https://www.youtube.com/shorts/TbwD1wcRqkU"><img src="https://ytcards.demolab.com/?id=TbwD1wcRqkU&title=CampusCup+2025+-+Aftermovie&lang=en&timestamp=1758288954&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="CampusCup 2025 - Aftermovie" title="CampusCup 2025 - Aftermovie"></a>
 <a href="https://www.youtube.com/watch?v=0253p-512Vo"><img src="https://ytcards.demolab.com/?id=0253p-512Vo&title=Bong+cam+from+CampusCup+2024&lang=en&timestamp=1744806623&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Bong cam from CampusCup 2024" title="Bong cam from CampusCup 2024"></a>
 <a href="https://www.youtube.com/watch?v=fSgTVn0bUms"><img src="https://ytcards.demolab.com/?id=fSgTVn0bUms&title=CampusCup+2023+%7C+Official+Aftermovie&lang=en&timestamp=1695122811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="CampusCup 2023 | Official Aftermovie" title="CampusCup 2023 | Official Aftermovie"></a>
