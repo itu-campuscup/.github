@@ -76,7 +76,7 @@ Welcome to the official GitHub organisation for **CampusCup** — a student-driv
    <li> Interested in helping with <b>development</b>? <br/>
      Then please read the guidelines on the given repo </li>
    <li> Interested in <b>volunteering</b>? <br/>
-     Then please keep an eye on our <a href=https://www.instagram.com/campuscup_cph>instagram</a> and our <a href="https://campuscup.dk/volunteer">volunteer form</a> </li>
+     Then please keep an eye on our <a href=https://links.campuscup.dk/ig>instagram</a> and our <a href="https://campuscup.dk/volunteer">volunteer form</a> </li>
    <li> Interested in joining as a <b>contestant</b>? <br/>
      Then keep an eye on our <a href="https://links.campuscup.dk/ig">instagram</a> and our <a href="https://campuscup.dk/participate">participate form</a> </li>
    <li> Interested in <b>sponsoring</b> us? <br/>
