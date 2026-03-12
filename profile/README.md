@@ -29,18 +29,18 @@
 <!-- END YOUTUBE-CARDS -->
 </details>
 
-Welcome to the official GitHub organisation for **CampusCup** — a student-driven, non-profit initiative based at the IT University of Copenhagen (ITU). Since 2014, we've been orchestrating the annual **Battle of the Canal**, a spirited kayak and beer relay race that brings together students from ITU and the University of Copenhagen's Faculty of Humanities (KU).  
+Welcome to the official GitHub organization for **CampusCup** - a student-driven, non-profit initiative based at the IT University of Copenhagen (ITU). Since 2014, we've been orchestrating the annual **Battle of the Canal**, a spirited kayak and beer relay race that brings together students from ITU and the University of Copenhagen's Faculty of Humanities (KU).  
 🌐 [campuscup.dk](https://campuscup.dk/about)
 
 <details><summary><h2>🎉 About the Event</h2></summary>
 
   <p>Held every September at Emil Holms Kanal, CampusCup is more than just a race. It's a carnival-like celebration featuring:
-  
+
   <ul>
     <li> 🛶 <b>16 teams</b> competing in a knockout-style kayak and beer relay race </li>
     <li> 🎶 <b>Live entertainment</b>, sponsor booths, and interactive games </li>
   </ul>
-  
+
   Whether you're racing, volunteering, or cheering from the sidelines, CampusCup offers an unforgettable experience.
 
 </details>
@@ -48,7 +48,7 @@ Welcome to the official GitHub organisation for **CampusCup** — a student-driv
 <details><summary><h2>👥 Our Mission</h2></summary>
 
   CampusCup aims to:
-  
+
   <ul>
     <li> Strengthen student life across Ørestad by bridging communities from ITU and KUA </li>
     <li> Promote inclusivity through volunteer-driven events </li>
@@ -59,16 +59,17 @@ Welcome to the official GitHub organisation for **CampusCup** — a student-driv
 
 <details open><summary><h2>💻 Our Tech Projects</h2></summary>
 
-  This GitHub organisation hosts the technical solutions used during CampusCup. Our repositories include:
-  
+  This GitHub organization hosts the technical solutions used during CampusCup. Our repositories include:
+
   <ul>
     <li> <a href="https://github.com/itu-campuscup/judge-it"><code>judge-it</code></a>: A web application designed to streamline event judging and coordination - and make fun stats for the crowd to view </li>
+    <li> <a href="https://github.com/itu-campuscup/littlelink"><code>littlelink</code></a>: A GitHub Pages repo responsible for gathering all SoMe links in one place and handling custom redirects </li>
     <li> Maybe more stuff to come in the future </li>
   </ul>
 
 </details>
 
-<details open><summary><h2>🙌 Get Involved</h2></summary>
+<details><summary><h2>🙌 Get Involved</h2></summary>
 
   <ul>
    <li> Have ideas for new development? <br/>
@@ -76,11 +77,11 @@ Welcome to the official GitHub organisation for **CampusCup** — a student-driv
    <li> Interested in helping with <b>development</b>? <br/>
      Then please read the guidelines on the given repo </li>
    <li> Interested in <b>volunteering</b>? <br/>
-     Then please keep an eye on our <a href=https://links.campuscup.dk/ig>instagram</a> and our <a href="https://campuscup.dk/volunteer">volunteer form</a> </li>
+     Then please keep an eye on our <a href=https://links.campuscup.dk/ig>instagram</a> and our <a href="https://www.campuscup.dk/volunteer">volunteer form</a> </li>
    <li> Interested in joining as a <b>contestant</b>? <br/>
-     Then keep an eye on our <a href="https://links.campuscup.dk/ig">instagram</a> and our <a href="https://campuscup.dk/participate">participate form</a> </li>
+     Then keep an eye on our <a href="https://links.campuscup.dk/ig">instagram</a> and our <a href="https://www.campuscup.dk/participate">participate form</a> </li>
    <li> Interested in <b>sponsoring</b> us? <br/>
-     Then please check out our <a href="https://campuscup.dk">contact form</a> </li>
+     Then please check out our <a href="https://www.campuscup.dk">contact form</a> </li>
   </ul>
 
 </details>
