@@ -62,7 +62,8 @@ Welcome to the official GitHub organization for **CampusCup** - a student-driven
   This GitHub organization hosts the technical solutions used during CampusCup. Our repositories include:
 
   <ul>
-    <li> <a href="https://github.com/itu-campuscup/judge-it"><code>judge-it</code></a>: A web application designed to streamline event judging and coordination - and make fun stats for the crowd to view </li>
+    <li> <a href="https://github.com/itu-campsucup/show-it"><code>Show IT</code></a>: A web application designed to show stats, gathered throughout the event, to the spectators </li>
+    <li> <a href="https://github.com/itu-campuscup/judge-it"><code>Judge IT</code></a>: A web application designed to streamline event judging and coordination - and make fun stats for the crowd to view </li>
     <li> <a href="https://github.com/itu-campuscup/littlelink"><code>littlelink</code></a>: A GitHub Pages repo responsible for gathering all SoMe links in one place and handling custom redirects </li>
     <li> Maybe more stuff to come in the future </li>
   </ul>
